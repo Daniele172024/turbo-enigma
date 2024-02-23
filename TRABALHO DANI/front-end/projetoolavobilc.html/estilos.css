@@ -1,0 +1,46 @@
+body {
+    background: #6f36d8;
+    margin: 0px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+#Missao {    
+    font-size: 20px;
+}
+.principal{
+    background: #c80c44;
+    padding: 30px;
+}
+
+em strong {
+    color:#7e1cc0;
+}
+
+#banner {
+    width: 100%;
+}
+.ItensDisciplina{
+    background: #FFF;
+    padding: 20px;
+}
+.itens{
+    font-style: italic;
+}
+
+#listaDis{
+    display:inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+
+
+.imagemDisciplinas{
+    width: 50%;
+}

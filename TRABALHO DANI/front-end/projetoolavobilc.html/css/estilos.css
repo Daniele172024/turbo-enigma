@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(132, 37, 187);
+    margin: 0px;
+}
+h1{
+    text-align: center;
+}
+#tituloPrincipal{
+    text-align: left;
+    font-size: 35px;
+    padding-left: 15px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+
+}
+#missao {
+    font-size: size 20px;
+}
+
+.principal{
+    background: rgb(132, 37, 187);
+    padding: 30px;
+}
+
+em strong {
+    color: #dfdfdf;;
+}
+
+#banner{
+    width: 100%;
+}
+.ItensDisciplinas{
+    background: rgb(132, 37, 187);
+    padding: 20px;
+}
+.itens { 
+    font-style: italic;
+}
+#ListaDisciplina{
+    display: inline-block;
+    width: 30%;
+    vertical-align:center;
+}
+.imagemDisciplinas{
+    width: 50%;
+}
